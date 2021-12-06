@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Задание 5", "Задание 5\Задание 5.csproj", "{A7DF5E7F-1EB3-4492-BB1F-1C895C2EEE45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "многомерный массив", "многомерный массив\многомерный массив.csproj", "{83099FAA-0586-459A-A627-9B9C7BE2BB3E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7DF5E7F-1EB3-4492-BB1F-1C895C2EEE45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7DF5E7F-1EB3-4492-BB1F-1C895C2EEE45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7DF5E7F-1EB3-4492-BB1F-1C895C2EEE45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7DF5E7F-1EB3-4492-BB1F-1C895C2EEE45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83099FAA-0586-459A-A627-9B9C7BE2BB3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83099FAA-0586-459A-A627-9B9C7BE2BB3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83099FAA-0586-459A-A627-9B9C7BE2BB3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83099FAA-0586-459A-A627-9B9C7BE2BB3E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1096B17-0022-46A4-A165-03FE88570063}
+	EndGlobalSection
+EndGlobal
